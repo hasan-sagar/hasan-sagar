@@ -22,26 +22,29 @@ As a full-stack developer, I'm interested in finding out more about web technolo
 
 <br/>  
 
-
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
-🏗️ I'm currently building a project in MERN stack.
-
-💡 Try to learn Redis and data structures.
-
-📫 Mail Me at khsagar0512@gmail.com
-
+- 🏗️ I'm currently building a project in MERN stack.  
   
 
+- 💡 Try to learn Redis and data structures.  
+  
 
-</td><td valign="top" width="100%">
+- 📫 Mail Me at khsagar0512@gmail.com  
 
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
 
 <br/>  
+
 
 
 ## Languages and Tools  
