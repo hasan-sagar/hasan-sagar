@@ -36,9 +36,6 @@ As a full-stack developer, I'm interested in finding out more about web technolo
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
