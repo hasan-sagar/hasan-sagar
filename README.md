@@ -24,7 +24,7 @@ As a full-stack developer, I'm interested in finding out more about web technolo
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 🏗️ I'm currently building a project in MERN stack.
 
