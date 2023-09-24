@@ -31,11 +31,15 @@ As a full-stack developer, I'm interested in finding out more about web technolo
 - 💡 Try to learn Redis and data structures.  
   
 
-- 📫 Mail Me at khsagar0512@gmail.com  
+- 📫 Mail Me at khsagar0512@gmail.com
+  
 
 
 </td><td valign="top" width="50%">
 
+<div align="right">
+<img src="https://images.unsplash.com/photo-1605379399843-5870eea9b74e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80" align="right" height="150" width="300" />
+</div>  
 
 
 </td></tr></table>  
