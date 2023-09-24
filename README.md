@@ -35,7 +35,7 @@ As a full-stack developer, I'm interested in finding out more about web technolo
   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
