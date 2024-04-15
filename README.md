@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Hasan Sagar</h1>
-<h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
-
-- 🔭 I’m currently working on **TestNG based web automation project**
-
-- 🌱 I’m currently learning **Java , TestNG , Selenium , Web Automation**
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 - 👯 I’m looking to collaborate on **Backend and Testing**
 
