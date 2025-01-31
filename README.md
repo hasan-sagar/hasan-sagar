@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Backend and Testing**
 
-- 👨‍💻 All of my projects are available at [https://khsagar.netlify.app/](https://khsagar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://khsagar.netlify.app/](https://khsagar.vercel.app/)
 
 - 💬 Ask me about **technologies**
 
