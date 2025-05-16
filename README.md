@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" height="30"/>
 </p>
 
 <p align="center">
